@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "きゅーすとのうた",
+  "base_artist": "CUTIE STREET",
+  "createdAt": "2026-01-03T13:43:45.515076Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きゅーすとのうた",
+      "artist": "CUTIE STREET",
+      "has_synced": true,
+      "path": "select/01_きゅーすとのうた_CUTIE_STREET.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きゅーすとのうた",
+      "artist": "CUTIE STREET",
+      "has_synced": false,
+      "path": "select/pl_01_きゅーすとのうた_CUTIE_STREET.txt"
+    }
+  ]
+}
